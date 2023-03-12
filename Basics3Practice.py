@@ -1,5 +1,5 @@
 # 1 . write a program to display a user enters a name followed by good afternoon ;-
-from tkinter import N
+
 
 
 name = input("Enter your name ,")
