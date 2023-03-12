@@ -6,8 +6,6 @@ print(name + greeting)
 # letter = '''dear <|Name|>,
                   #  you are selected !
                   # <|Date|>
-
-
 letter = ''' Dear <|Name|> 
         Greetings from ABC coding house . I am happy to tell you about your selection .
         you are selected !
