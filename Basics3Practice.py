@@ -2,6 +2,7 @@
 name = input("Enter your name ,")
 greeting = " Good Afternoon"
 print(name + greeting)
+
 # 2. write a program to fill ina letter tempelate given below with name and date :- 
 # letter = '''dear <|Name|>,
                   #  you are selected !
