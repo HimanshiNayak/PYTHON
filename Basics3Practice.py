@@ -1,6 +1,4 @@
 # 1 . write a program to display a user enters a name followed by good afternoon ;-
-
-
 name = input("Enter your name ,")
 greeting = " Good Afternoon"
 print(name + greeting)
