@@ -36,7 +36,7 @@ bool2 = False
 print("The value of bool1 and bool2 is",bool1 and bool2)
 print("The value of b1 or b2",bool1 or bool2)
 print("The value of b1 and b2 is",  not bool1 )
-print("The value of not bool2",not bool2)
+print("The value of not bool2",not bool2) 
 
 d = "3456"
 d = int(d)
