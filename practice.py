@@ -45,7 +45,7 @@ print(d+67)
 
 f ="hi"
 h = " himanshi"
-print(h[1]) #slicing
+print(h[1]) #slicing 
 print(f + h)
 print(f[0])
 print(h[-3])
