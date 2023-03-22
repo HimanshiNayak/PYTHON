@@ -14,7 +14,7 @@ print("sum of 3+4 is",b+v)
 print("u",3*4)
 print("g",12/4)
 print("u",3+4)
-print("a",3-4)
+print("a",3-4) 
 
 a = 34
 
