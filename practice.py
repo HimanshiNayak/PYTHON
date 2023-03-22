@@ -60,7 +60,7 @@ i ="Hello guy how are you all"
 print(i[1:21:3]) # will skip 3 -3 and will go until the last one
 
 print(i[1:14:4])
-print(i.endswith("all"))
+print(i.endswith("all")) 
 print(i.endswith("guy"))
 print(i.startswith("all")) # gives true or false
 print(i.count("o"))
