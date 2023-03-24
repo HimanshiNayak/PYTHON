@@ -90,3 +90,26 @@ print(a)
 #tuple
 t = (1,34,"fhvg",56)
 print(t)
+
+# dictionary
+
+mydict = {
+    "fast" : "runner",
+    "harry" : "name",
+    "marks" : [1,2,3],
+    "anotherdict": {"hello" : "hi"}
+}
+print(mydict['fast'])
+mydict['marks'] = ['78,89,96']
+print(mydict)
+print(list(mydict.keys()))
+print(mydict.items())
+print(mydict.values())
+updatedict = {
+    "car" : "Means of transport",
+    "current" : "charge per unit time"
+}
+mydict.update(updatedict)
+mydict.update({"dancer" : "Aperson who dances"})
+print(mydict.update)
+print(mydict.get("harry")) # will give the value of harry
