@@ -68,3 +68,13 @@ print(i.capitalize())
 print(i.find("guys")) #  -1 as the word is not found there
 print(i.find("o")) # will give the index where it comes for the first time only
 print(i.replace("guy","guys")) # will replace everywhere
+
+a = [46,78,78.0,"sfu"]
+print(a[3])
+a[2]=56
+print(a)
+print(a[0:4])
+b = [34,78,9,67]
+b.sort()
+print(b)
+b.reverse()
