@@ -88,3 +88,5 @@ a.remove(34)
 print(a)
 
 #tuple
+t = (1,34,"fhvg",56)
+print(t)
