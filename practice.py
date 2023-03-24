@@ -69,6 +69,7 @@ print(i.find("guys")) #  -1 as the word is not found there
 print(i.find("o")) # will give the index where it comes for the first time only
 print(i.replace("guy","guys")) # will replace everywhere
 
+#  lists
 a = [46,78,78.0,"sfu"]
 print(a[3])
 a[2]=56
@@ -85,3 +86,4 @@ a.insert(2,34)
 a.pop(3)
 a.remove(34)
 print(a)
+
