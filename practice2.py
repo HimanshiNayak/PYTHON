@@ -12,7 +12,7 @@ class Person:
         self.salary = int(self.salary *self.increment)
 
 p1 = Person('rani','newton',18,100000)
-p2 = Person('selena' ,'cruise',19,1000000)
+p2 = Person('selena','cruise',19,1000000)
 print(p1.firstname)
 print(p1.salary)
 print(p1.increment)
