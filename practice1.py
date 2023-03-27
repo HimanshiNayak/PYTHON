@@ -46,7 +46,7 @@ class singer:
 
 a = singer("BTS","Korea","Korean")
 b = singer("Blackpink","Korea","Korean")
-c = singer("TXT" , "Korea","korean")
+c = singer("TXT","Korea","korean")
 
 a.display()
 a.popularity = "indian" ## can be changed like , this , but will be changed for particular obj
