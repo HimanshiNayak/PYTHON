@@ -9,7 +9,7 @@ class Person:
            self.agename = age
            self.salary = salary
     def increment(self):
-        self.salary = int(self.salary *self.increment)
+        self.salary = int(self.salary*self.increment)
 
 p1 = Person('rani','newton',18,100000)
 p2 = Person('selena','cruise',19,1000000)
