@@ -44,7 +44,7 @@ class singer:
         print(f"{self.name} is  band from {self.nationality} they sing in {self.language}.")
   
 
-a = singer("BTS" ,"Korea","Korean")
+a = singer("BTS","Korea","Korean")
 b = singer("Blackpink","Korea","Korean")
 c = singer("TXT" , "Korea","korean")
 
