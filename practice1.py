@@ -27,7 +27,7 @@ class car:
     def display(self):
         print(self.modelname , self.year)
 
-c1 = car("toyota" , 2016)
+c1 = car("toyota",2016)
 c1.display()
 
 # singer
