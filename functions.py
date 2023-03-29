@@ -5,7 +5,7 @@
 ## so we use def function : 
 ## we don't have to type again and again , just call the function
 
-def printText(): ## printtext is the name we gave to the func.
+def printText(): ## printtext is the name we gave to the func. 
     print("hello")
     print("hello")
     print("bye")
