@@ -9,7 +9,7 @@ print("the remainder when a is divided by b is " , a%b)
 #check the type of the varible using input function 
 a = input("enter something")
 print(type(a)) # always str
-  # comparison operators to see whether a is greater than b or not
+  # comparison  operators to see whether a is greater than b or not
   
 a =34
 b=80
