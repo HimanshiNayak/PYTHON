@@ -1,5 +1,5 @@
 # list and tuple they have the following differences :-
-# 1. here we use () 
+# 1. here we use ()  
 # 2. the elements of a tuple can't be manipulated 
 #3. heterogenous ordered set
 
