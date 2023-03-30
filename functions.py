@@ -2,7 +2,7 @@
 
 ## does only the task provided to it , while loop just repeates.
 ## we can't copy paste everytime . 
-## so we use def function : 
+## so we use def function :  
 ## we don't have to type again and again , just call the function
 
 def printText(): ## printtext is the name we gave to the func.  
