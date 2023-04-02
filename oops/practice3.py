@@ -77,15 +77,15 @@ p2 = Child()
 p2.name()
 p2.id()
 print(p2.company)
-the object child class can use all the attributesof the parent class but vice versa is not true    #   
-if some of the att. is repeating in the child class then , it's value from the child class will be followed as , the prefferenc eof this will be more
+# the object child class can use all the attributesof the parent class but vice versa is not true    #   
+# if some of the att. is repeating in the child class then , it's value from the child class will be followed as , the prefferenc eof this will be more
 
-3 types of inheritance :- 
-single 
-multiple : more than one parent for a child
-multilayered : one parent one child , then comes grand child
+# 3 types of inheritance :- 
+# single 
+# multiple : more than one parent for a child
+# multilayered : one parent one child , then comes grand child
 
-multiple inheritance
+# multiple inheritance
 
 class Employee:
     company = "Visa"
