@@ -9,7 +9,7 @@ print((10+4)*4)
 # associativity from [left to right]:- 
 # when two operators have same precedence , then they will get operated from left to right .
 print(5*2//3) #, we get 3  both have same precedence  ## here 3 is the ans
-print(5//2*3)  # // just gives the numerical part #3 here 6 is ans
+print(5//2*3)  # // just gives the numerical part   #3 here 6 is ans
 
 
 print(2**3**3) ## 8 to the power 3
