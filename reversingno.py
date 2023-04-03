@@ -1,4 +1,3 @@
-
 n = int(input("please give a number : "))
 print("before reverse your numeber is : %d" %n)
 reverse = 0
