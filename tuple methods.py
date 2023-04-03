@@ -7,4 +7,3 @@ print(t.count(1))
 
 print(t.index(2))
 
-
