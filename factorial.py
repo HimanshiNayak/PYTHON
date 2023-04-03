@@ -1,6 +1,4 @@
 # factorial of 5
-
-
 def factorial(n):
     # base case: if n is 1, return 1
     if n == 1:
